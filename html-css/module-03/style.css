@@ -1,0 +1,86 @@
+body{
+    background: #ccf url(img/fon.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 67px 0 83px 0;
+}
+
+.wrapper{
+    box-sizing: content-box;
+    width: 480px;
+    background-color: white;
+    margin: auto;
+    padding: 40px 40px;
+}
+
+h2{
+    font-size: 23pt;
+    font-family: Pathway Gothic One;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+
+.wrapper .air{
+    background: url(img/fly.png) no-repeat center center;
+    height: 100px;
+    background-size: cover;
+}
+
+.agency{
+    padding-bottom: 33px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.h3first{
+    margin-top: 28px;
+    margin-bottom: 21px;
+}
+
+.block1{
+    margin-bottom: 53px;
+}
+
+.block2{
+    margin-right: 74px;
+}
+
+.our{
+    margin-bottom: 28px;
+}
+
+.line{
+    background-color: #cccccc;
+    height: 2px;
+    margin-top: 54px;
+    margin-bottom: 53px;
+}
+
+.block3, .block4{
+    display: inline-block;
+    margin-top: 22px;
+}
+
+.block3{
+    padding-right: 50px;
+    padding-left: 23px;
+}
+
+.block3 h3{
+    font-size: 12pt;
+}
+
+.block4{
+    vertical-align: top;
+}
+
+.block4 h3{
+    font-size: 12pt;
+}
