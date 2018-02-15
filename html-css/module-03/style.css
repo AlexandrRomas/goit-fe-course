@@ -13,25 +13,25 @@ body{
 }
 
 h2{
-    font-size: 23pt;
+    font-size: 25px;
     font-family: Pathway Gothic One, sans-serif;
     color: #263555;
 }
 
 h3{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 14pt;
+    font-size: 14px;
     color: #263555;
-    font-weight: 600;
-    font-stretch: semi-condensed;
+   /* font-weight: 600;
+    font-stretch: semi-condensed;*/
 }
 
 p{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12pt;
+    font-size: 12px;
     color: #4e5050;
-    font-weight: 500;
-    font-stretch: condensed;
+  /*  font-weight: 500;
+    font-stretch: condensed;*/
 }
 
 img{
@@ -72,10 +72,10 @@ img{
 li{
     list-style-type:none;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 14pt;
+    font-size: 14px;
     color: #263555;
-    font-weight: 600;
-    font-stretch: semi-condensed;
+   /* font-weight: 600;
+    font-stretch: semi-condensed;*/
     line-height: 2;
 }
 
