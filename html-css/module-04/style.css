@@ -14,32 +14,38 @@ body{
 
 .float{
     margin-right: 25px;
-    margin-bottom: 23px;
+    margin-bottom: 15px;
     padding: 0px;
     width: 360px;
     height: 281px;
     float: left;
-    background: url(img/float.png) center;
+    /*background: url(img/float.png) center;*/
+}
+
+img{
+    width: 360px;
+    height: 280px;
 }
 
 h2{
     font-size: 32px;
     font-family: Pathway Gothic One, sans-serif;
-    color: #333366;
+    color: #263555;
     margin-top: 0px;
+    font-weight: 400;
 }
 
 h3{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    color: #333366;
-    font-stretch: semi-condensed;
+    color: #263555;
+    font-weight: 400;
 }
 
 p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
-    color: #666666;
+    color: #4e5050;
 }
 
 .block1 .sidebar h3{
@@ -65,29 +71,29 @@ p{
     line-height: 28px;
     color: white;
     font-size: 13px;
-    margin-right: 11px;
+    margin-right: 5px;
     float: left;
     clear: both;
-    margin-bottom: 90px;
+    margin-bottom: 100px;
 }
 
 .sidebar .box{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    color: #333366;
+    color: #263555;
 }
 
 .sidebar2 .mark{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: #333366;
+    color: #263555;
     text-align: center;
 }
 
 .sidebar2 .direct{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
-    color: #666666;
+    color: #4e5050;
 }
 
 /*div{
@@ -108,7 +114,7 @@ p{
 }
 
 .line{
-    background-color: #cccccc;
+    background-color: #dedbdb;
     height: 1px;
     margin-right: 60px;
     margin-left: 60px;
@@ -125,7 +131,7 @@ p{
 .sidebar{
     display: inline-block; 
     width: 200px;
-    margin-left: 48px;
+    margin-left: 40px;
     vertical-align: top;
 }
 
@@ -146,13 +152,13 @@ li{
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 2;
-    color: #333366;
+    color: #263555;
     font-weight: 600;
 }
 
 span{
     content: "\2192";
-    color: #3399cc;
+    color: #38afe5;
     width: 10px;
 }
 
